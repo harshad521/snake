@@ -1,0 +1,41 @@
+td {
+  width:30px;
+  height: 30px;
+  background: black;
+
+}
+#snakeHead {
+  position: absolute;
+  top:100px;
+  left:163px;
+}
+tr {
+  width:10;
+  height:10;
+}
+.validArea {
+  margin-left: 40px;
+  width: 1150px;
+  height: 500px;
+  border: 1px solid black;
+  background-color: #f7f7f4 ;
+  margin-top: 100px;
+}
+.scoreBoard {
+  font-family: sans-serif;
+  font-display: block;
+  font-size: 25px;
+  color: white
+}
+font {
+  position: absolute;
+  left: 500px;
+  top: 300px;
+}
+body{
+  background-color: black;
+}
+
+button {
+  font-size: 20px;
+}
